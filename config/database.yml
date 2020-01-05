@@ -23,8 +23,8 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: woody-allen-quote-database
+  database: d515t2l1tedmp9
   pool: 5
-  username: pierre
-  password:
+  username: wjpdkelhlpigpo
+  password: 97cba67b02a08d77051d14a07e3760347e5424e8e8092a70f64c82c176182939
   timeout: 5000
